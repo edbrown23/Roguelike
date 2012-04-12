@@ -11,6 +11,7 @@ import java.util.LinkedList;
  */
 public class GameStateMachine {
     private GameState currentState;
+    private ChunkManager chunkManager;
     private double currentStateElapsedTime = 0.0;
     private LinkedList<GameState> stateQueue = new LinkedList<GameState>();
 
