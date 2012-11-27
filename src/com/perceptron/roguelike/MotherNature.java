@@ -1,3 +1,5 @@
+package com.perceptron.roguelike;
+
 import java.util.HashMap;
 
 /**

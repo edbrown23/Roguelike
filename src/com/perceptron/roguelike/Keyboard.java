@@ -1,3 +1,4 @@
+package com.perceptron.roguelike;
 
 /**
  * Created with IntelliJ IDEA.

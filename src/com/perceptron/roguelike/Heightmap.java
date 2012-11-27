@@ -1,3 +1,5 @@
+package com.perceptron.roguelike;
+
 import java.io.*;
 
 public class Heightmap implements Serializable{

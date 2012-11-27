@@ -1,3 +1,5 @@
+package com.perceptron.roguelike;
+
 import com.sun.deploy.panel.ITreeNode;
 import com.sun.org.apache.xalan.internal.xsltc.compiler.Template;
 

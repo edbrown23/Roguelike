@@ -1,3 +1,5 @@
+package com.perceptron.roguelike;
+
 import com.sun.deploy.panel.ITreeNode;
 
 import javax.swing.*;

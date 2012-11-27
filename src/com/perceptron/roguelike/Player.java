@@ -1,3 +1,5 @@
+package com.perceptron.roguelike;
+
 import javax.swing.text.AttributeSet;
 import java.util.Observable;
 
